@@ -188,7 +188,5 @@ $RECYCLE.BIN/
 # Typescript
 dist
 
-
-#Jasmine - Reporters
-#Awesome Report
+## Reports ##
 reports
